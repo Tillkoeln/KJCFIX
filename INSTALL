@@ -1,0 +1,9 @@
+Building KimJongUnCoin
+
+See doc/readme-qt.rst for instructions on building KimJongUnCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KimJongUnCoin.
+
+See doc/build-*.txt for instructions on building KimJongUnCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KimJongUnCoin.
